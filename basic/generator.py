@@ -1,3 +1,7 @@
+# coding=utf-8
+
+__author__ = 'mengxg'
+
 # 生成一个列表
 L=[x*x for x in range(1,8)]
 print L

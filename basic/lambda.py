@@ -1,5 +1,9 @@
 # coding=utf-8
 
+__author__ = 'mengxg'
+
+#lambda函数使用
+
 f=lambda x,y,z:x+y+z;
 print f(1,2,3);
 

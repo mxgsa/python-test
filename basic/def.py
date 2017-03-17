@@ -1,5 +1,8 @@
 # coding=utf-8
 
+__author__ = 'mengxg'
+
+
 # 自定义函数
 '''
 def functionname( parameters ):
