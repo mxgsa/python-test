@@ -1,8 +1,10 @@
-# coding=utf-8
-
-__author__ = 'mengxg'
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 '打印空心等边三角形'
+
+__author__='mengxg'
+
 
 # 打印等边三角形 注意print后面的的","，不能省略，可以起到不换行的作用
 print "打印空心等边三角形"
